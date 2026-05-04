@@ -1,2 +1,13 @@
 # Advanced-Electricity-Billing-System
-A comprehensive Java desktop application designed to automate utility billing. Built using Java Swing for the GUI and MySQL via JDBC for secure data persistence, featuring automated tariff calculations and digital invoice generation.
+Advanced Electricity Billing System
+An automated solution for managing utility billing cycles. This project replaces manual entry with a robust Java-based system to ensure data integrity and calculation accuracy.
+
+Tech Stack: Java, Swing (Frontend), MySQL (Database), JDBC (Connectivity).
+
+Key Features:
+
+Automated tariff calculation algorithms.
+
+Secure administrative login and record management.
+
+Optimized SQL queries for fast billing history retrieval.
